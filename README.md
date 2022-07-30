@@ -140,4 +140,4 @@ export default class RNSelectExample2 extends Component {
 
 ## 5. License
 
-MIT Licensed. Copyright (c) TuanTVK 2019.
+MIT Licensed. Copyright (c).
